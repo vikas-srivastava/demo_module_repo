@@ -22,5 +22,9 @@
 		{
 			"php": ">=5.3.2",
 			"silverstripe/framework": "dev-composer"
+		},
+	"extra":
+		{
+			"snapshot" : "http://vikycorner.limewebs.com/demo-pic.jpg"
 		}
 }
