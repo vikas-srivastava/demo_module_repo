@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/composer-installer",
+
 	"type": "silverstripe-module",
 	"description": "Fake module for testing extensionmanager",
 	"keywords": ["silverstripe", "cms"],
