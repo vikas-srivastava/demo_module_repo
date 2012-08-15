@@ -1,5 +1,5 @@
 {
-	"name":"silverstripe-cms121A",
+	"name":"silverstripe/CMS",
 	"type": "silverstripe-module",
 	"description": "Fake module for testing extensionmanager",
 	"license": "BSD-3-Clause",
