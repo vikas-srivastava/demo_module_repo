@@ -23,7 +23,8 @@
 	"require": 
 		{
 			"php": ">=5.3.2",
-			"silverstripe/framework": "3.0.1"
+			"silverstripe/framework": "3.0.1",
+			"silverstripe/tagfield"
 		},
 	"extra":
 		{
