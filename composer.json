@@ -1,8 +1,8 @@
 {
-	"name": "silverstripe/cms",
+	"name": "silverstripe-labs/cms",
 	"type": "silverstripe-module",
 	"description": "Fake module for testing extensionmanager",
-	"keywords": ["silverstripe", "cms"],
+	"keywords": ["silverstripe-labs", "cms"],
 	"license": {
 		 "type": "BSD-3-Clause"
 		},
