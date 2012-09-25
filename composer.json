@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe-labs/cms",
+	"name": "silverstripe-labs/payment_dpshosted",
 	"type": "silverstripe-module",
 	"description": "Fake module for testing extensionmanager",
 	"keywords": ["silverstripe-labs", "cms"],
