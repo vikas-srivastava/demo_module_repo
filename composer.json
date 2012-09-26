@@ -1,5 +1,6 @@
 {
 	"name": "silverstripe-labs/googleanalytics",
+	"description": "test",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe-labs", "googleanalytics", "google", "silverstripe"],
 	"authors": [
