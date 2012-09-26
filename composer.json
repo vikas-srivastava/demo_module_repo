@@ -11,8 +11,9 @@
 		"email": "julian@silverstripe.com"
 	}
 	],
-	"require":
-	{
-		"silverstripe/framework": "3.*"
-	}
+	"extra":
+    {
+        "snapshot" : "https://raw.github.com/silverstripe-labs/silverstripe-googleanalytics/master/docs/screenshot.png"
+    }
+    
 }
