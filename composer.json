@@ -1,7 +1,7 @@
 {
 	"name": "silverstripe-labs/googleanalytics",
 	"description": "The Google Analytics module consists of 2 components that can
-		be employed independently:The Google Logger injects the google analytics
+		be employed independently The Google Logger injects the google analytics
 		javascript snippet into your source code and logs relevant events
 		(as of now only crawler visits).The Analyzer adds the Google Analytics UI to
 		your CMS.",
