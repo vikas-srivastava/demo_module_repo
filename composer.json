@@ -1,4 +1,5 @@
 {
+
 	"name": "silverstripe/cms",
 	"type": "silverstripe-module",
 	"description": "Fake module for testing extensionmanager",
