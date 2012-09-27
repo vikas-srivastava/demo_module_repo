@@ -1,21 +1,11 @@
 {
-	"name": "silverstripe-labs/googleanalytics",
-	"description": "The Google Analytics module consists of  components 
-	that can be employed independently  The Google Logger injects the google analytics javascript snippet into your source code and logs relevant events as of now only crawler visits.",
+	"name": "silverstripe/cms",
 	"type": "silverstripe-module",
-<<<<<<< HEAD
-	"keywords": ["silverstripe-labs", "googleanalytics", "google", "silverstripe"],
-	"authors": [
-	{
-		"name": "Julian Seidenberg",
-		"email": "julian@silverstripe.com"
-	}
-=======
 	"description": "Fake module for testing extensionmanager",
 	"keywords": ["silverstripe", "cms"],
 	"license": {
 		 "type": "BSD-3-Clause"
-		}
+		},
 	"authors":[
 		{
 			"name": "SilverStripe",
@@ -29,15 +19,14 @@
 			"email" : "vikas@openbees.org",
 			"role" : "developer"
 		}
->>>>>>> parent of 95dba2c... typo error
 	],
-	"require":
-	{
-		"silverstripe/framework": "3.*"
-	},
+	"require": 
+		{
+			"php": ">=5.3.2",
+			"silverstripe/framework": "3.0.1"
+		},
 	"extra":
-    {
-        "snapshot" : "https://raw.github.com/silverstripe-labs/silverstripe-googleanalytics/master/docs/screenshot.png"
-    }
-    
+		{
+			"snapshot" : "http://openbees.org/images/Demo.jpg"
+		}
 }
